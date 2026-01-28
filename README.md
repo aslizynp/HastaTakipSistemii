@@ -49,5 +49,5 @@ Veritabanındaki verileri otomatik olarak işleyen analiz sayfası:
 ![İstatistik Sayfası](https://github.com/aslizynp/HastaTakipSistemii/blob/master/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-01-29%20001036.png?raw=true)
 
 ---
-⭐ **Geliştiren:** [Adınız Soyadınız]
-📍 **Zonguldak Bülent Ecevit Üniversitesi** - Bilgisayar Mühendisliği 3. Sınıf Projesi
+⭐ **Geliştiren:** [Aslı Zeynep Çelen]
+📍 **Zonguldak Bülent Ecevit Üniversitesi** - Bilgisayar Mühendisliği 3. Sınıf 
